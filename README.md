@@ -1,6 +1,6 @@
 I would recommend redoing the transformer driving circuit. 
 
-Contact joule -a-t- thotcrime -d-0-t- org with any questions.
+Contact me with any questions.
 
 Softwares:
 
